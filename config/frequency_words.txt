@@ -1,13 +1,8 @@
-胖东来
-于东来
-
 DeepSeek
 梁文锋
 
 华为
 鸿蒙
-HarmonyOS
-任正非
 
 比亚迪
 王传福
@@ -23,22 +18,13 @@ DJI
 稚晖君
 彭志辉
 
-黑神话
-冯骥
 
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
 !车
 !餐
 
-三体
-流浪地球
-刘慈欣
-郭帆
+GPU
+TPU
+
 
 申奥
 
@@ -64,7 +50,7 @@ AMD
 谷歌
 google
 gemini
-deepmind
+nano- banana
 
 chatgpt
 openai
@@ -81,7 +67,8 @@ ios
 ai
 !gai
 人工智能
-
+智能体
+ai硬件
 自动驾驶
 
 机器人
